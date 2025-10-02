@@ -14,4 +14,5 @@
 - ไม่ใช้ `drawImage()` และไม่ใช้ไลบรารี  
 
 ## วิดีโออธิบาย
-[คลิกลิงก์ YouTube ที่นี่](https://youtu.be/xxxxxxx)  
+[คลิกลิงก์ YouTube ที่นี่]((https://youtu.be/9lS11HOrKG0))  
+
